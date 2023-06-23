@@ -1,0 +1,5 @@
+Primeiro trazemos nosso REPO remoto: git clone (url)
+Depois, a cada mudança, efetuamos o conjunto git add (nomeDoArquivo) & git commit -m "Mensagem"
+Finalmente, quando quisermos publicar, utilizamos o git push.
+
+OBS: Caso seja necessário, crie uma branch para separar alguns trabalhos (git branch NOME & git switch NOME)
